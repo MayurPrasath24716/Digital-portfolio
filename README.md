@@ -102,11 +102,6 @@
             </ul>
         </div>
 
-        <div class="section" id="projects">
-            <h2>Projects</h2>
-            <p>(Add your projects here)</p>
-        </div>
-
         <div class="resume" id="resume">
             <h2>Resume</h2>
             <a href="#">Download CV</a>
